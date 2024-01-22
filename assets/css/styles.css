@@ -1,0 +1,52 @@
+* {
+    font-family: "Lucida Sans Unicode", "Georgia", sans-serif;
+  }
+
+header {text-align: center
+    margin: top 25px;
+    }
+
+    div {
+        border: 1px solid black;
+        padding: 25px;
+        background-color: lightblue;
+      }
+
+nav { 
+    float: right;
+    margin-top: 3px;
+    color: cadetblue;
+    
+}
+
+body {
+    background-color: rgb(219, 203, 138);
+    text-align: center;
+   
+  }
+
+h1 {
+    color: hsl(311, 80%, 25%);
+    marg
+    
+  }
+
+ul {border: 1px solid black;
+    padding: 15px;
+    background-color: lightblue;
+  } 
+
+h2 {
+    color: #210ec7;
+  }
+section { 
+    color: rgb(167, 67, 149);
+    margin-bottom: ;
+    text-align: center;
+   
+  }
+
+footer {border: 0.1px solid black;
+    padding: 0.5px;
+    background-color: lightblue;
+  } 
